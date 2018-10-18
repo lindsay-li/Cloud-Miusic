@@ -1,0 +1,2 @@
+webpackJsonp([11],{"/KFX":function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r("Cz8s"),a=r("TVmP"),s={components:{"app-header":n.a,"app-footer":a.a}},o={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("app-header"),this._v(" "),t("router-view"),this._v(" "),t("app-footer")],1)},staticRenderFns:[]},p=r("C7Lr")(s,o,!1,null,null,null);t.default=p.exports}});
+//# sourceMappingURL=chunk11.js.map?35a834498b73906b5c80
